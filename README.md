@@ -1,8 +1,7 @@
-Build
-To build the project, type in your terminal mvn clean test
+-- How --
+1)Run test: mvn clean test
 
-Allure report
-To build a report and run a local web server mvn allure:serve
+2)To build a report and run a local web server: mvn allure:serve
 
 - Задача -
 Дано.
